@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+	<title>task-1</title>
+	<style type="text/css">
+		.picture{
+
+		background: orange;
+		width: 100px;
+		height: 100px;
+		float: left;
+		margin: 0;
+		padding: 0;
+		}
+
+	</style>
+</head>
+<body>
+<div id="bottle">
+	<div class="picture">
+		<div class="picture">
+			<div class="picture">
+				<div class="picture">
+					<div class="picture">
+						<div class="picture">
+							<div class="picture">
+								<div class="picture">
+									<div class="picture">
+										
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>
